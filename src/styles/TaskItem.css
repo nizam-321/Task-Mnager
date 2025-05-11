@@ -1,0 +1,16 @@
+.task-item {
+  transition: all 0.3s ease;
+}
+
+.task-text {
+  margin-left: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #6c757d;
+}
+
+.delete-button {
+  margin-left: 10px;
+}
