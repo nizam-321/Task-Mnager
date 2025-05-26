@@ -23,6 +23,15 @@ A simple React + Vite based Task Manager app where you can add, complete, delete
 
 ---
 
+## 🛠️ Technologies Used
+
+- **React**
+- **Vite**
+- **JavaScript (ES6+)**
+- **CSS3**
+- **Bootstrap**
+- **LocalStorage**
+
 ## Getting Started
 
 ### 1. Clone the repository
